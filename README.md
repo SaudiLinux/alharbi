@@ -17,7 +17,7 @@
 ## التثبيت
 1. قم بتنزيل المشروع:
 ```bash
-git clone https://github.com/yourusername/harbi.git
+git clone https://github.com/SaudiLinux/harbi.git
 cd harbi
 ```
 
